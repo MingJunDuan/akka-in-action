@@ -9,7 +9,7 @@ Accompanying source code for Akka in Action.
 -------------------------English-----------------------------
 
 
-I'm a JAVA man, though this source-code is written by scala, I can still get some guide and idea from this code. I learned a lot from Akka Essentials when I was a fresh man of Akka. if you are a fresh man of Akka, too. Akka Essentials might be a good guide to Akka. 
+I'm a JAVA man, though this source-code is written by scala, I can still get some guide and idea from this code. I learned a lot from Akka Essentials when I was a fresh man of Akka. If you are a fresh man of Akka, too. Akka Essentials might be a good guide to Akka. 
 
 
 -------------------------中文---------------------------------
